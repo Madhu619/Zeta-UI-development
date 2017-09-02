@@ -4,7 +4,7 @@
 var colorCodes = ["#ff5a5a", "#ffc845" , "#56dd82"]
 var data ='';
 	   $.ajax({
-            url     : 'sample.json',
+            url     : 'js/sample.json',
             method  : 'post',
             success : function( response ) {
                 alert( response );
