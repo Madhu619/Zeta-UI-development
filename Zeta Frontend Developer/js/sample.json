@@ -1,0 +1,33 @@
+var data = { "ideas":
+					 [
+					 	{ "image":"images/girl1.jpg" , "message":"display some data" , "button":"stop" },
+						{ "image":"images/girl2.jpg" , "message":"display some data" , "button":"play" }	,
+						{ "image":"images/girl1.jpg" , "message":"display some data" , "button":"stop" },
+						{ "image":"images/boy1.jpg" , "message":"display some data" , "button":"play" },
+						{ "image":"images/boy2.jpg" , "message":"display some data" , "button":"stop" }
+					],
+			"progress":
+					 [
+					 	{ "image":"images/girl1.jpg" , "message":"display some data" , "button":"play" },
+						{ "image":"images/girl2.jpg" , "message":"display some data" , "button":"play" }	,
+						{ "image":"images/girl1.jpg" , "message":"display some data" , "button":"stop" },
+						{ "image":"images/boy1.jpg" , "message":"display some data" , "button":"stop" },
+						{ "image":"images/boy2.jpg" , "message":"display some data" , "button":"play" }
+					],
+			"review":
+					 [
+					 	{ "image":"images/girl1.jpg" , "message":"display some data" , "button":"play" },
+						{ "image":"images/girl2.jpg" , "message":"display some data" , "button":"stop" }	,
+						{ "image":"images/girl1.jpg" , "message":"display some data" , "button":"play" }
+						
+					],
+			"approved":
+					 [
+					 	{ "image":"images/girl1.jpg" , "message":"display some data" , "button":"play" },
+						{ "image":"images/girl2.jpg" , "message":"display some data" , "button":"stop" }	,
+						{ "image":"images/girl1.jpg" , "message":"display some data" , "button":"play" },
+						{ "image":"images/boy1.jpg" , "message":"display some data" , "button":"stop" },
+						{ "image":"images/boy2.jpg" , "message":"display some data" , "button":"play" }
+					]
+
+		}
